@@ -1,0 +1,11 @@
+.home-container {
+  min-height: 80vh;
+  background-image: url('./image/lager.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 10vh;
+}
+#content{
+  padding: 9px;
+}
