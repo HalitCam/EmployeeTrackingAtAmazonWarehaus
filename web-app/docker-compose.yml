@@ -9,7 +9,6 @@ services:
       MONGO_URI: mongodb://mongo-server:27017/amazon-lager
       REDIS_HOST: redis
       REDIS_PORT: 6379
-      JWT_SECRET: change_this_secret_in_production
     volumes:
       - uploads:/opt/amazon-lager/backend/uploads
     restart: always
