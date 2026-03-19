@@ -1,4 +1,4 @@
-## Screenshots of Web-APP
+# Amazon Lager
 Ziel = In diesem Web-Aplikation versucht man die Tasken auf Mitarbeiter als übe digital platform zu verteilen. Und nach dem Zeitraum (monatlich, täglich, ...) werden die Leistungen des Lagers und der Mitarbeiter angezeigt.<br/>
 
 The goal is to distribute tasks to employees via a comprehensive digital platform. Warehouse and employee performance will then be monitored over a specific period (monthly, daily, etc.). <br/>
@@ -57,7 +57,7 @@ npm start
 - Client runs on port `3000`.
 - Docker Compose starts MongoDB and Redis automatically.
 
-
+## Screenshots of Web-APP
 ### Homepage
 ![Home Page](./images/shot1.png)
 ### Dashboard of Admin 
